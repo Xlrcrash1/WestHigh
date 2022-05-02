@@ -1,12 +1,30 @@
 /*Navigation*/
 
 
-.navBannerContent {
+.navContent {
 
-    height: 30px;
+    height: 100px;
+}
+
+.navBanner {
+
+    text-align: center;
+    background-color: #0D473D;
+    color: white;
 }
 
 .navImage {
 
-    width: 20px;
+    height: 20px;
+}
+
+.navbar {
+
+    width: 100%;
+    position: inherit;
+}
+
+.navbar-collapse {
+
+    justify-content: center;
 }
