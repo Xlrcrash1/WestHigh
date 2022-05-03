@@ -11,6 +11,7 @@
     text-align: center;
     background-color: #0D473D;
     color: white;
+    height: 50px;
 }
 
 .navBannerImage {
@@ -43,4 +44,21 @@
 .nav-item {
 
     font-size: 16px;
+}
+
+
+
+
+
+
+/*          About Us             */
+
+.ensembleContentBig{
+
+    width: 66%;
+}
+
+.ensembleContentSmall {
+
+    width: 33%;
 }
