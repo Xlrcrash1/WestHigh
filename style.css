@@ -50,12 +50,21 @@
 
 
 
-.ensembleContent{
+.ensemble-Content{
 
     display: inline-flex;
     width: 100%;
     justify-content: center;
 }
+
+
+.ensemble-ContentMirror{
+
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+}
+
 
 .ensembleContentBig {
 
