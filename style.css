@@ -53,17 +53,6 @@
 .ensembleContent{
 
     display: inline-flex;
-}
-
-.ensembleContentBig {
-
-    width: 66%;
-}
-
-/*
-.ensembleContent {
-
-    display: inline-flex;
     width: 100%;
     justify-content: center;
 }
@@ -77,4 +66,3 @@
 
     width: 33%;
 }
-*/
