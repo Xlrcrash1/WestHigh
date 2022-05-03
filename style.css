@@ -28,6 +28,7 @@
 
     width: 100%;
     position: inherit;
+    border-radius: 0;
 }
 
 .navbar-collapse {
@@ -57,7 +58,7 @@
     height: 200px;
     display: inline-flex;
     justify-content: center;
-    background-color: lightgrey;
+    background-color: whitesmoke;
     padding: 5px;
     margin: 10px;
 }
