@@ -52,16 +52,18 @@
 
 .ensembleContent{
 
-    display: inline-flex;
     width: 100%;
+    height: 200px;
+    display: inline-flex;
     justify-content: center;
 }
 
 
 .ensembleContentMirror{
 
-    display: inline-flex;
     width: 100%;
+    height: 200px;
+    display: inline-flex;
     justify-content: center;
 }
 
