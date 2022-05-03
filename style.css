@@ -58,6 +58,8 @@
     display: inline-flex;
     justify-content: center;
     background-color: lightgrey;
+    padding: 10px;
+    margin: 10px;
 }
 
 
@@ -69,6 +71,8 @@
     justify-content: center;
     text-align: right;
     background-color: lightgrey;
+    padding: 10px;
+    margin: 10px;
 }
 
 
