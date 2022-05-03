@@ -19,9 +19,25 @@
 
     height: 65px;
 }
+
 .navImage {
 
     height: 20px;
+}
+
+.navBannerLeft {
+
+    width: 33%;
+}
+
+.navBannerMid {
+
+    width: 33%;
+}
+
+.navBannerRight {
+
+    width: 33%;
 }
 
 .navbar {
