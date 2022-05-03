@@ -53,13 +53,13 @@
 
 /*          About Us             */
 
-/*.ensembleContent {
+.ensembleContent {
 
     display: inline-flex;
     width: 100%;
     justify-content: center;
 }
-
+/*
 .ensembleContentBig {
 
     width: 66%;
