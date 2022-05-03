@@ -50,6 +50,11 @@
 
 /*          About Us             */
 
+.ensembleContent{
+
+    display: inline-flex;
+}
+
 .ensembleContentBig {
 
     width: 66%;
