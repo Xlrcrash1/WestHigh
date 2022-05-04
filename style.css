@@ -52,7 +52,7 @@
 
     /*width: 100%;*/
     z-index: 4;
-    position: inherit;
+    /*position: inherit;*/
     border-radius: 0;
     display: block;
 }
@@ -82,10 +82,7 @@
 
 /* ------------------- Main -----------------------*/
 
-.main {
 
-    z-index: 1;
-}
 
 /* ------------------- About Us -------------------*/
 
