@@ -86,7 +86,8 @@
 
     width: 50%;
     height: 50%;
-    text-align: center;
+    /*text-align: center;*/
+    pointer-events: none;
 }
 .calendar {
 
