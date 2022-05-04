@@ -54,16 +54,21 @@
     display: block;
 }
 
-.navbar-collapse {
+.navbar-toggler{
+
+    border: none;
+}
+
+/*.navbar-collapse {
 
     justify-content: center;
-}
+}*/
 
 .navbar-nav {
 
     width: 100%;
-    justify-content: center;
-    text-align: center;
+    /*justify-content: center;
+    text-align: center;*/
 }
 
 .nav-item {
