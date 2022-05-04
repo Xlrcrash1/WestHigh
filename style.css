@@ -82,14 +82,15 @@
 
 /* ------------------- Main -----------------------*/
 
-.calendarQuickView{
+#calendarQuickView{
 
     width: 50%;
     height: 50%;
     /*text-align: center;*/
     pointer-events: none;
 }
-.calendar {
+
+.calendarWeek {
 
     width: 100%;
     height: 100%;
