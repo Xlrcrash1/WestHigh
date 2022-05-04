@@ -21,6 +21,11 @@
     pointer-events: none;
 }
 
+.navBannerImage {
+
+    width: 60%;
+}
+
 .navBannerLeft {
 
     width: 33%;
