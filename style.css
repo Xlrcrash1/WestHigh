@@ -6,6 +6,11 @@
     height: 100px;
 }
 
+.navBannerRow {
+
+    width: 100%;
+}
+
 .navBanner {
 
     text-align: center;
