@@ -121,4 +121,9 @@
 
         width: 100%;
     }
+
+    .navbar-nav {
+
+        width: auto;
+    }
 }
