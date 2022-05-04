@@ -50,6 +50,7 @@
 .navbar {
 
     /*width: 100%;*/
+    z-index: 4;
     position: inherit;
     border-radius: 0;
     display: block;
