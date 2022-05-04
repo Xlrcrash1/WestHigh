@@ -40,7 +40,6 @@
 .navBannerMid {
 
     width: 33%;
-    z-index: 5;
 }
 
 .navBannerRight {
@@ -50,8 +49,8 @@
 
 .navbar {
 
-    /*width: 100%;
-    position: inherit;*/
+    /*width: 100%;*/
+    position: inherit;
     border-radius: 0;
     display: block;
 }
