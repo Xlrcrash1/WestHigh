@@ -81,11 +81,8 @@
 
 
 /* ------------------- Main -----------------------*/
-
-.carouselExampleIndicators {
-
-    background-color: black;
-}
+.carousel .carousel-indicators li {background-color: red;}
+.carousel .carousel-indicators li.active {background-color: blue;}
 
 /* ------------------- About Us -------------------*/
 
