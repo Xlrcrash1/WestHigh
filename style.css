@@ -15,14 +15,9 @@
     padding-top: 10px;
 }
 
-.navBannerImage {
-
-    height: 65px;
-}
-
 .navImage {
 
-    height: 20px;
+    width: 100%;
     pointer-events: none;
 }
 
@@ -107,4 +102,10 @@
 .ensembleImage {
 
     height: 100%;
+}
+
+
+@media only screen and (max-width: 600px){
+
+        
 }
