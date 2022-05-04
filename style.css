@@ -51,6 +51,7 @@
     width: 100%;
     position: inherit;
     border-radius: 0;
+    display: block;
 }
 
 .navbar-collapse {
