@@ -40,6 +40,7 @@
 .navBannerMid {
 
     width: 33%;
+    z-index: 5;
 }
 
 .navBannerRight {
@@ -78,6 +79,13 @@
     font-size: 16px;
 }
 
+
+/* ------------------- Main -----------------------*/
+
+.main {
+
+    z-index: 0;
+}
 
 /* ------------------- About Us -------------------*/
 
