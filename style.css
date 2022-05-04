@@ -10,6 +10,7 @@
 
     width: 100%;
     pointer-events: none;
+    margin: 0;
 }
 
 .navBanner {
@@ -99,6 +100,7 @@
 .splitContent {
 
     width: 100%;
+    margin: 0;
 }
 
 /* ------------------- About Us -------------------*/
