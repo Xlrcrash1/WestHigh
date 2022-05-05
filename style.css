@@ -194,7 +194,6 @@
     
     #scrolls {
 
-        max-height: 90vh;
-        height: 100%
+        max-height: 30vh;
     } 
 }
