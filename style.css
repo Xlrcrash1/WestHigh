@@ -83,10 +83,15 @@
 
 /* ------------------- Main -----------------------*/
 
+.main {
+
+    z-index: 1;
+}
+
 #scrolls {
 
     max-height: 90vh;
-    height: 100%
+    height: 100% 
 }
 
 .homeCarousel {
