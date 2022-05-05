@@ -169,4 +169,9 @@
 
         padding: 3%;
     }
+
+    .carousel-inner {
+
+        height: 50%;
+    }
 }
