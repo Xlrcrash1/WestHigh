@@ -1,3 +1,8 @@
+.row {
+
+    margin: 0px;
+}
+
 /*Navigation*/
 
 
@@ -115,6 +120,13 @@
     width: auto!important;*/
 }
 
+.splitContent {
+
+    width: 100%;
+    height: 300px;
+    margin: 0;
+}
+
 .calendarQuickView{
 
     width: 100%;
@@ -129,12 +141,7 @@
     height: 100%;
 }
 
-.splitContent {
 
-    width: 100%;
-    height: 300px;
-    margin: 0;
-}
 
 /* ------------------- About Us -------------------*/
 
@@ -180,6 +187,14 @@
 }
 
 
+/* --------------Footer --------------*/
+
+.footer {
+
+    width: 100%;
+    background-color: lightgray;
+}
+
 @media only screen and (max-width: 600px){
 
     .navBannerImage {
@@ -201,4 +216,10 @@
 
         max-height: 30vh;
     } 
+
+    .splitContent {
+
+        width: 100%;
+        height: 350px;
+    }
 }
