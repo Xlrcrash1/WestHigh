@@ -179,4 +179,19 @@
 
         padding: 3%;
     }
+
+    .scrolls {
+
+        height: auto;
+    }
+    
+   /* .carousel-inner {
+    
+        height: 100%;
+    }
+    
+    .carousel-item {
+    
+        max-height: 100%;
+    }*/
 }
