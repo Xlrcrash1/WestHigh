@@ -83,21 +83,6 @@
 
 /* ------------------- Main -----------------------*/
 
-#scrolls {
-
-    height: 500px;
-}
-
-.carousel-inner {
-
-    height: 100%;
-}
-
-.carousel-item {
-
-    max-height: 100%;
-}
-
 .calendarQuickView{
 
     width: 100%;
@@ -178,20 +163,5 @@
     .navbar{
 
         padding: 3%;
-    }
-
-    #scrolls {
-
-        height: auto;
-    }
-    
-   /* .carousel-inner {
-    
-        height: 100%;
-    }
-    
-    .carousel-item {
-    
-        max-height: 100%;
-    }*/
+    } 
 }
