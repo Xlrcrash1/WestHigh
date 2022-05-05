@@ -85,7 +85,7 @@
 
 .carousel-inner {
 
-    height: 50%;
+    /*height: 50%;*/
 }
 
 .calendarQuickView{
@@ -168,10 +168,5 @@
     .navbar{
 
         padding: 3%;
-    }
-
-    .carousel-inner {
-
-        height: none;
     }
 }
