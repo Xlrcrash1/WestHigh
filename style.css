@@ -190,5 +190,11 @@
     .navbar{
 
         padding: 3%;
+    }
+    
+    #scrolls {
+
+        max-height: 90vh;
+        height: 100%
     } 
 }
