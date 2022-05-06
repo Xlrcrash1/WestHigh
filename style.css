@@ -98,32 +98,7 @@
     z-index: 1;
 }
 
-#scrolls {
 
-    max-height: 90vh;
-    height: 100% 
-}
-
-.homeCarousel {
-
-    height: 100%;
-}
-
-.carousel-inner {
-
-    height: 100%;
-}
-
-.carousel-item {
-
-    height: 100%;
-}
-
-.carouselImage {
-
-    /*height: 100%;
-    width: auto!important;*/
-}
 
 .splitContent {
 
