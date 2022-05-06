@@ -207,6 +207,11 @@
     text-align: center;
 }
 
+.footerContact {
+
+    text-align: center;
+}
+
 @media only screen and (max-width: 600px){
 
     .navBannerImage {
