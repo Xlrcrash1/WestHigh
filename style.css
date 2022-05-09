@@ -119,6 +119,11 @@
     height: 300px;
 }
 
+.joinEnsembleLink {
+
+    text-align: center;
+}
+
 .calendarWeek {
 
     width: 100%;
