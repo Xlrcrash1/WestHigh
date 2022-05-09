@@ -195,6 +195,11 @@
     text-align: center;
 }
 
+.logos {
+
+    display: inline-flex
+}
+
 .logoImages {
 
     height: 25px;
