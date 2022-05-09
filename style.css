@@ -110,14 +110,14 @@
 .splitContent {
 
     width: 100%;
-    height: 300px;
+    height: auto;
     margin: 0;
 }
 
 .calendarQuickView{
 
     width: 100%;
-    height: 100%;
+    /*height: 100%;*/
     /*text-align: center;*/
     pointer-events: none;
 }
