@@ -116,7 +116,12 @@
 
 .split {
 
-    height: 300px;
+    height: 250px;
+}
+
+.joinUsDescription {
+
+    text-align: center;
 }
 
 .joinEnsembleLink {
@@ -240,5 +245,10 @@
     .splitContent {
 
         width: 100%;
+    }
+
+    .split {
+
+        height: 250px;
     }
 }
