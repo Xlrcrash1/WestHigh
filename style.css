@@ -105,51 +105,6 @@
     z-index: 1;
 }
 
-.splitContent {
-
-    width: 100%;
-    height: auto;
-    margin: 0;
-    padding-top: 1%;
-    padding-bottom: 1%;
-}
-
-.split {
-
-    height: 250px;
-}
-
-.joinUs {
-
-    overflow: hidden;
-}
-
-.joinUsTop {
-
-    overflow:hidden;
-}
-
-.joinUsDescription {
-
-    text-align: center;
-}
-
-.joinUsBottom {
-
-    overflow: hidden;
-}
-
-.joinEnsembleLink {
-
-    text-align: center;
-}
-
-.calendarWeek {
-
-    width: 100%;
-    height: 100%;
-    pointer-events: none;
-}
 
 
 
@@ -257,13 +212,4 @@
         max-height: 30vh;
     } 
 
-    .splitContent {
-
-        width: 100%;
-    }
-
-    .split {
-
-        height: 250px;
-    }
 }
