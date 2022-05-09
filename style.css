@@ -105,17 +105,13 @@
     z-index: 1;
 }
 
-.scrolls {
-
-    padding-top: 1%;
-    padding-bottom: 1%;
-}
-
 .splitContent {
 
     width: 100%;
     height: auto;
     margin: 0;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
 .calendarQuickView{
