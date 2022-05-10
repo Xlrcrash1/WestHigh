@@ -132,6 +132,11 @@
     height: 200px;
 }
 
+.indexContentSocialCardRight {
+
+    border-right-style: solid;
+}
+
 .instagram-media {
 
     min-width: 0px!important;
@@ -262,8 +267,6 @@
 
         height: 300px;
     }
-
-
 
     .QRCodeImage {
 
