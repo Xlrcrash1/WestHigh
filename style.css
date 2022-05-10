@@ -263,6 +263,10 @@
         height: 260px;
     }
 
+    .instagram-media {
+
+        min-width: none;
+    }
     .QRCodeImage {
 
         width: 100%;
