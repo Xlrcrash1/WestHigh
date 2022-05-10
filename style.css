@@ -132,6 +132,7 @@
     height: 200px;
 }
 
+
 .instagram-media{
 
     width: 100%;
@@ -257,6 +258,10 @@
         height: 300px;
     }
 
+    .indexContentSocialCard {
+
+        height: 260px;
+    }
 
     .QRCodeImage {
 
