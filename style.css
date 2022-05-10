@@ -231,6 +231,16 @@
     #scrolls {
 
         max-height: 30vh;
-    } 
+    }
+
+    .indexContentDescription {
+
+        font-size: 10px;
+    }
+    
+    .calendarWeek {
+
+        height: 300px;
+    }
 
 }
