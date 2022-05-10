@@ -105,7 +105,15 @@
     z-index: 1;
 }
 
+.indexBody {
 
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.calendarWeek {
+
+    width: 100%;
+}
 
 
 /* ------------------- About Us -------------------*/
