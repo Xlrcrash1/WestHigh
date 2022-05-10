@@ -110,6 +110,18 @@
     padding-top: 2%;
     padding-bottom: 2%;
 }
+
+.indexContentDescription {
+
+    text-align: center;
+    font-size: 12px;
+}
+
+.indexContentBottom {
+
+    text-align: center;
+}
+
 .calendarWeek {
 
     width: 100%;
