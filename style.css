@@ -192,7 +192,16 @@
     height: 100%;
 }
 
+.indexContentDonate {
 
+    margin: 5%;
+}
+
+.indexQRContent {
+
+    padding-top: 25%;
+    padding-bottom: 25%;
+}
 /* --------------Footer --------------*/
 
 .footer {
