@@ -132,6 +132,12 @@
     height: 200px;
 }
 
+.instagram-media{
+
+    width: 100%;
+    height: 100%;
+}
+
 .QRCodeTitle {
 
     text-align: center;
