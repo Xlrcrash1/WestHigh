@@ -135,6 +135,7 @@
 .instagram-media {
 
     min-width: 0;
+    width: 100%;
 }
 
 .instagram-media-rendered {
