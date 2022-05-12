@@ -279,6 +279,7 @@
 
 @media only screen and (max-width: 600px){
 
+    /*------------------- NAV -------------------*/
     .navBannerImage {
 
         width: 100%;
@@ -293,7 +294,8 @@
 
         padding: 3%;
     }
-    
+
+    /*---------------------- MAIN -----------------------*/
     #scrolls {
 
         max-height: 30vh;
@@ -303,7 +305,25 @@
 
         font-size: 10px;
     }
-    
+   
+    .joinEnsemblesLeft {
+        
+        padding-left: 0;
+        padding-right: 0;
+    }    
+
+    .joinEnsemblesRight {
+
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .indexEnsembleButton {
+
+        padding-left: 0;
+        padding-right: 0;
+    }
+
     .calendarWeek {
 
         height: 300px;
