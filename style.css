@@ -105,6 +105,17 @@
     z-index: 1;
 }
 
+.websiteTitle {
+
+    font-size: 30;
+    font-weight: 700;
+}
+
+.websiteText {
+
+    font-size: 20px;
+}
+
 .indexBody {
 
     padding-top: 2%;
