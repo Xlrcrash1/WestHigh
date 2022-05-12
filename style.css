@@ -142,6 +142,11 @@
     border-right-style: solid;
 }
 
+.indexContentTitle {
+
+    padding-bottom: 2%;
+}
+
 .indexContentBottom {
 
     text-align: center;
