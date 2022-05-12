@@ -114,6 +114,8 @@
 .websiteText {
 
     font-size: 15px;
+    font-weight: 300;
+    text-align: center;
 }
 
 .indexBody {
@@ -121,18 +123,12 @@
     padding-top: 2%;
     padding-bottom: 2%;
     min-height: 200px;
-    width:100%;
+    width: 100%;
 }
 
 .contentBorder {
 
     border-right-style: solid;
-}
-
-.indexContentDescription {
-
-    text-align: center;
-    font-size: 20px;
 }
 
 .indexContentBottom {
