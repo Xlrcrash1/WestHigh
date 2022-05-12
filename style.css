@@ -169,10 +169,20 @@
     border-color: #29a745;
 }
 
+.indexCalendarTitle {
+
+    height: 20%;
+}
+
+.indexCalendarBody {
+
+    height: 80%;
+}
+
 .calendarWeek {
 
     width: 100%;
-    height: 200px;
+    height: 100%;
 }
 
 .instagram-media {
@@ -188,7 +198,7 @@
 
 .indexContentBandBoosterBandLogo {
 
-    height: 50px;
+    height: 25px;
 }
 
 .QRCodeTitle {
