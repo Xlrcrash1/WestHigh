@@ -109,6 +109,8 @@
 
     padding-top: 2%;
     padding-bottom: 2%;
+    min-height: 200px;
+    width:100%;
 }
 
 .contentBorder {
