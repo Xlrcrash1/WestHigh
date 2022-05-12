@@ -338,6 +338,11 @@
         padding-right: 0;
     }
 
+    .indexCalendarBody{
+
+        height: 90%;
+    }
+
     .indexEnsembleButton {
 
         padding-left: 0;
