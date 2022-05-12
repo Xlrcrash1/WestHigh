@@ -169,6 +169,16 @@
     border-color: #29a745;
 }
 
+.indexCalendarTitle {
+
+    height: 20%;
+}
+
+.indexCalendarBody {
+
+    height: 80%;
+}
+
 .calendarWeek {
 
     width: 100%;
@@ -333,16 +343,26 @@
         font-size: 20px;
     }
 
+    .indexCalendarTitle {
+
+        height: 10%;
+    }
+
+    .indexCalendarBody {
+
+        height: 90%;
+    }
+
     .indexEnsembleButton {
 
         padding-left: 0;
         padding-right: 0;
     }
 
-    .calendarWeek {
+    /*.calendarWeek {
 
         height: 300px;
-    }
+    }*/
 
     .QRCodeImage {
 
