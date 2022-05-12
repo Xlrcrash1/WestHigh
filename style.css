@@ -147,6 +147,12 @@
     text-align: center;
 }
 
+.btn-outline-dark:hover {
+
+    color: #28a745;
+    border-color: #29a745;
+}
+
 .calendarWeek {
 
     width: 100%;
