@@ -338,7 +338,17 @@
         padding-right: 0;
     }
 
-    .indexCalendarBody{
+    .websiteTitle {
+
+        font-size: 20px;
+    }
+
+    .indexCalendarTitle {
+
+        height: 10%;
+    }
+
+    .indexCalendarBody {
 
         height: 90%;
     }
@@ -349,10 +359,10 @@
         padding-right: 0;
     }
 
-    .calendarWeek {
+    /*.calendarWeek {
 
         height: 300px;
-    }
+    }*/
 
     .QRCodeImage {
 
