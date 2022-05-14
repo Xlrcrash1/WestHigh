@@ -35,12 +35,12 @@
 
         function disable(){
   
-          document.querySelector('.calendarWeek').addEventListener('wheel', preventScroll);
+          document.querySelector('.eventContainer1').addEventListener('wheel', preventScroll);
         }
 
         function enable(){
         
-          document.querySelector('.calendarWeek').removeEventListener('wheel', preventScroll);
+          document.querySelector('.eventContainer1').removeEventListener('wheel', preventScroll);
         }
 </script>
 
