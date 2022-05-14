@@ -23,7 +23,28 @@
       for (const el of text) {  
         el.remove();  }
         </script>
-}
+
+      <script>
+
+        function preventScroll(e){
+        
+          e.preventDefault();
+          e.stopPropagation();
+          return false;
+        }
+
+        function disable(){
+  
+          document.querySelector('.calendarWeek').addEventListener('wheel', preventScroll);
+        }
+
+        function enable(){
+        
+          document.querySelector('.calendarWeek').removeEventListener('wheel', preventScroll);
+        }
+</script>
+
+
     </head>
 
     <body>
