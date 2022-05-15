@@ -11,20 +11,22 @@
     width: 100%;
 }
 
-.navBannerRow {
-
-    width: 100%;
-    pointer-events: none;
-    margin: 0;
-}
-
 .navBanner {
 
+    width: 100%;
+    height: 100%;
     text-align: center;
     background-color: #0D473D;
     color: white;
     height: 50px;
     padding-top: 10px;
+}
+
+.navBannerRow {
+
+    width: 100%;
+    pointer-events: none;
+    margin: 0;
 }
 
 .navImage {
