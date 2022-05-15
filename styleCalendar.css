@@ -1,0 +1,12 @@
+.calendarTop{
+    
+    width: 100%;
+    text-align: center;
+    padding: 2%;
+}
+
+.iframeCalendar {
+
+    width: 100%;
+    height: 65%;
+}
