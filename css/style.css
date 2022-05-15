@@ -76,7 +76,7 @@
 
 .contentBorder {
 
-    /*border-right-style: solid;*/
+    border-right-style: solid;
 }
 
 .indexContentTitle {
@@ -159,6 +159,11 @@
 
         padding-left: 1%;
         padding-right: 1%;
+    }
+
+    .contentBorder {
+
+        border-right-style: none;
     }
 
     .websiteTitle {
