@@ -155,7 +155,7 @@
 
 .contentBorder {
 
-    border-right-style: solid;
+    /*border-right-style: solid;*/
 }
 
 .indexContentTitle {
@@ -182,9 +182,9 @@
 
 .calendarWeek {
 
-    width: 100%;
+   /* width: 100%;
     height: 220px;
-    overflow-y: scroll;
+    overflow-y: scroll;*/
 }
 
 .instagram-media {
@@ -364,7 +364,7 @@
 
     .calendarWeek {
 
-        height: 300px;
+        /*height: 300px;*/
     }
 
     .QRCodeImage {
