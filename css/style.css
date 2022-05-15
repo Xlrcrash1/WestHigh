@@ -128,61 +128,6 @@
     text-align: center;
 }
 
-/* ------------------- About Us -------------------*/
-
-
-.ensembleContent{
-
-    width: 100%;
-    height: 200px;
-    display: inline-flex;
-    justify-content: center;
-    background-color: whitesmoke;
-    padding: 5px;
-    margin: 10px;
-}
-
-
-.ensembleContentMirror{
-
-    width: 100%;
-    height: 200px;
-    display: inline-flex;
-    justify-content: center;
-    text-align: right;
-    background-color: lightgrey;
-    padding: 5px;
-    margin: 10px;
-}
-
-
-.ensembleContentBig {
-
-    width: 66%;
-}
-
-.ensembleContentSmall {
-
-    width: 33%;
-}
-
-.ensembleImage {
-
-    height: 100%;
-}
-
-.indexContentDonate {
-
-    margin: 5%;
-}
-
-.indexQRContent {
-
-    padding-top: 25%;
-    padding-bottom: 25%;
-}
-
-
 @media only screen and (max-width: 600px){
 
     /*---------------------- MAIN -----------------------*/
