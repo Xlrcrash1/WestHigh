@@ -312,6 +312,12 @@
         max-height: 30vh;
     }
 
+    .indexContent {
+
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+
     .indexContentDescription {
 
         font-size: 15px;
