@@ -86,3 +86,22 @@
 
     font-size: 16px;
 }
+
+@media only screen and (max-width: 600px){
+
+    /*------------------- NAV -------------------*/
+    .navBannerImage {
+
+        width: 100%;
+    }
+
+    .navbar-nav {
+
+        width: auto;
+    }
+
+    .navbar{
+
+        padding: 3%;
+    }
+}

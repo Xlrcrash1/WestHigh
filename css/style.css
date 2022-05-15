@@ -21,92 +21,7 @@
     margin: 0px;
 }
 
-/*-----------------Navigation---------------*/
 
-#Navigation {
-
-    width: 100%;
-}
-
-.navContent {
-
-    height: 100px;
-    width: 100%;
-}
-
-.navBannerRow {
-
-    width: 100%;
-    pointer-events: none;
-    margin: 0;
-}
-
-.navBanner {
-
-    text-align: center;
-    background-color: #0D473D;
-    color: white;
-    height: 50px;
-    padding-top: 10px;
-}
-
-.navImage {
-
-    width: 100%;
-    pointer-events: none;
-}
-
-.navBannerImage {
-
-    width: 40%;
-}
-
-.navBannerLeft {
-
-    width: 33%;
-}
-
-.navBannerMid {
-
-    width: 33%;
-    z-index: 5;
-}
-
-.navBannerRight {
-
-    width: 33%;
-}
-
-.navbar {
-
-    /*width: 100%;*/
-    z-index: 4;
-    /*position: inherit;*/
-    border-radius: 0;
-    display: block;
-}
-
-.navbar-toggler{
-
-    border: none;
-}
-
-/*.navbar-collapse {
-
-    justify-content: center;
-}*/
-
-.navbar-nav {
-
-    width: 100%;
-    /*justify-content: center;
-    text-align: center;*/
-}
-
-.nav-item {
-
-    font-size: 16px;
-}
 
 
 /* ------------------- Main -----------------------*/
@@ -310,22 +225,6 @@
 }
 
 @media only screen and (max-width: 600px){
-
-    /*------------------- NAV -------------------*/
-    .navBannerImage {
-
-        width: 100%;
-    }
-
-    .navbar-nav {
-
-        width: auto;
-    }
-
-    .navbar{
-
-        padding: 3%;
-    }
 
     /*---------------------- MAIN -----------------------*/
     #scrolls {
