@@ -325,14 +325,14 @@
    
     .joinEnsemblesLeft {
         
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 1%;
+        padding-right: 1%;
     }    
 
     .joinEnsemblesRight {
 
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 1%;
+        padding-right: 1%;
     }
 
     .websiteTitle {
