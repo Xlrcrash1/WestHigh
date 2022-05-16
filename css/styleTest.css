@@ -1,0 +1,12 @@
+.main {
+
+    z-index: 1;
+    width: 100%;
+}
+
+.indexBody {
+
+    padding-bottom: 2%;
+    min-height: 200px;
+    width: 100%;
+}
