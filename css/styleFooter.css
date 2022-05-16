@@ -46,7 +46,7 @@
 
     .ms-3 .col {
 
-        padding-right: 0;
-        width: none;
+        padding-right: 0!important;
+        width: none!important;
     }
 }
