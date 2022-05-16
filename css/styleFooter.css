@@ -40,3 +40,13 @@
 .text-muted {
     text-align: left;
 }
+
+
+@media only screen and (max-width: 600px){
+
+    .ms-3 .col {
+
+        padding-right: 0;
+        width: none;
+    }
+}
