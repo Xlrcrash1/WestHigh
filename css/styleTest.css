@@ -1,7 +1,14 @@
+
+
 .main {
 
     z-index: 1;
     width: 100%;
+}
+
+.row {
+
+    margin: 0;
 }
 
 .indexBody {
@@ -25,6 +32,8 @@
 .indexContentDescription {
 
     text-align: center;
+    font-size: 18px;
+    font-weight: 300;
 }
 
 
