@@ -55,7 +55,7 @@
 
 .instagram-media {
 
-    min-width: none!important;
+    min-width: 0px!important;
     width: 100%;
 }
 
