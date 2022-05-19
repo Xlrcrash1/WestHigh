@@ -63,6 +63,16 @@
     min-width: none;
 }
 
+#instagram-embed-0 {
+
+    min-width: none;
+}
+
+.instagram-media.instagram-media-rendered {
+
+    min-width: none;
+}
+
 @media only screen and (max-width: 600px){
 
     /*---------------------- MAIN -----------------------*/
