@@ -59,21 +59,6 @@
     width: 100%;
 }
 
-.instagram-media-rendered {
-
-    min-width: none;
-}
-
-#instagram-embed-0 {
-
-    min-width: none;
-}
-
-.instagram-media.instagram-media-rendered {
-
-    min-width: none;
-}
-
 @media only screen and (max-width: 600px){
 
     /*---------------------- MAIN -----------------------*/
@@ -102,5 +87,11 @@
     .indexContentDescription {
 
         font-size: 15px;
+    }
+
+    .instagram-media {
+
+        min-width: none!important;
+        width: 100%;
     }
 }
