@@ -140,7 +140,12 @@
 
     .indexContentDescription {
 
-        font-size: 15px;
+        font-size: 14px;
+    }
+
+    .indexVolunteer {
+
+        font-size: 20px;
     }
    
     .joinEnsemblesLeft {
