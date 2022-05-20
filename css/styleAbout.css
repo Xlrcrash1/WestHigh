@@ -5,11 +5,9 @@
 
     width: 100%;
     height: 200px;
-    display: inline-flex;
     justify-content: center;
+    text-align: left;
     background-color: whitesmoke;
-    padding: 5px;
-    margin: 10px;
 }
 
 
@@ -17,37 +15,8 @@
 
     width: 100%;
     height: 200px;
-    display: inline-flex;
     justify-content: center;
     text-align: right;
     background-color: lightgrey;
-    padding: 5px;
-    margin: 10px;
-}
 
-
-.ensembleContentBig {
-
-    width: 66%;
-}
-
-.ensembleContentSmall {
-
-    width: 33%;
-}
-
-.ensembleImage {
-
-    /*height: 100%;*/
-}
-
-.indexContentDonate {
-
-    margin: 5%;
-}
-
-.indexQRContent {
-
-    padding-top: 25%;
-    padding-bottom: 25%;
 }
