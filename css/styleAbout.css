@@ -27,8 +27,18 @@
     margin-bottom: .5%;
 }
 
+.ensembleContentBigTitle {
+
+    font-size: 30px;
+}
+
 .ensembleImage {
 
     width: 100%;
     height: auto;
+}
+
+.staffImages {
+
+    height: 200px;
 }
