@@ -4,7 +4,7 @@
 .ensembleContent{
 
     width: 100%;
-    height: 200px;
+    min-height: 200px;
     justify-content: center;
     text-align: left;
     background-color: whitesmoke;
@@ -14,7 +14,7 @@
 .ensembleContentMirror{
 
     width: 100%;
-    height: 200px;
+    min-height: 200px;
     justify-content: center;
     text-align: right;
     background-color: lightgrey;
