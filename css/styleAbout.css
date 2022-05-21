@@ -60,22 +60,13 @@
 
 @media only screen and (max-width: 600px){
 
-    .ensembleContent {
+    .ensembleContentBig {
 
-        height: 200px;
-        overflow: hidden;
+        background-image: url("./iamges/VAPA-Drumline.webp");
     }
+    .ensembleContentSmall {
 
-    .ensembleContentMirror {
-
-        height: 200px;
-        overflow: hidden;
-    }
-
-    .ensembleImage {
-
-        height: 100%;
-        width: auto;
+        display: none;
     }
 
     .staffImage {
