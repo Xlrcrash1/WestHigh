@@ -66,6 +66,12 @@
         overflow: hidden;
     }
 
+    .ensembleContentMirror {
+
+        height: 200px;
+        overflow: hidden;
+    }
+
     .ensembleImage {
 
         height: 100%;
