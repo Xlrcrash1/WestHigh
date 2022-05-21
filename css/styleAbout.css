@@ -60,6 +60,18 @@
 
 @media only screen and (max-width: 600px){
 
+    .ensembleContent {
+
+        height: 200px;
+        overflow: hidden;
+    }
+
+    .ensembleImage {
+
+        height: 100%;
+        width: auto;
+    }
+
     .staffImage {
 
         height: 100px;
