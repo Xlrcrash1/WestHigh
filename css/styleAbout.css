@@ -58,6 +58,11 @@
     text-align: center;
 }
 
+.staffDescription {
+
+    text-align: center;
+}
+
 @media only screen and (max-width: 600px){
 
     .ensembleContent {
