@@ -91,6 +91,11 @@
         background-position-x: center;
     }
 
+    .ensembleContentBig {
+
+        background-color: rgb(0,0,0,.60);
+    }
+
     .ensembleContentSmall {
 
         display: none;
