@@ -73,16 +73,22 @@
     .ensembleImageOne {
 
         background-image: url("../images/VAPA-MarchingBand.webp");
+        background-size: 700px;
+        background-position-x: center;
     }
 
     .ensembleImageTwo {
 
         background-image: url("../images/VAPA-ColorGuard.webp");
+        background-size: 700px;
+        background-position-x: center;
     }
 
     .ensembleImageThree {
 
         background-image: url("../images/VAPA-DrumLine.webp");
+        background-size: 700px;
+        background-position-x: center;
     }
 
     .ensembleContentSmall {
