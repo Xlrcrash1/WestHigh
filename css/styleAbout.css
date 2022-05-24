@@ -62,8 +62,9 @@
 
     .ensembleContentBig {
 
-        background-image: url("./images/VAPA-DrumLine.webp");
+        background-image: url("../images/VAPA-DrumLine.webp");
     }
+
     .ensembleContentSmall {
 
         display: none;
