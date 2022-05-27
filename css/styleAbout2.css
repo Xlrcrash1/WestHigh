@@ -51,9 +51,8 @@
 .staffSectionTitle {
 
     text-align: center;
-    font-size: 35px;
+    font-size: 40px;
 }
-
 
 .bandStaffEnsembleColorGuard {
 
@@ -76,6 +75,11 @@
     margin-left: 25%;
     margin-top: 2%;
     text-align: left;
+}
+
+.staffCard {
+
+    margin-top: 5%;
 }
 
 .staffDescription {
