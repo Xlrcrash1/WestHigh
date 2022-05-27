@@ -153,6 +153,6 @@
     .staffPic {
 
         width: 100%;
-        height: none;
+        height: auto;
     }
 }
