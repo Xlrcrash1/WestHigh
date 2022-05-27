@@ -69,13 +69,6 @@
     text-align: left;
 }
 
-.ensembleStaff {
-
-    margin-right: 25%;
-    margin-left: 25%;
-    text-align: left;
-}
-
 .staffCard {
 
     margin-top: 5%;
@@ -149,5 +142,11 @@
     .ensembleContentSmall {
 
         display: none;
+    }
+
+    .staffSection {
+
+        margin-left: 5%;
+        margin-right: 5%;
     }
 }
