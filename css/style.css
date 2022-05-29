@@ -98,6 +98,16 @@
     text-align: center;
 }
 
+.indexContentLeft {
+
+    padding-right: .4%;
+}
+
+.indexContentRight {
+
+    padding-left: .4%;
+}
+
 .indexEnsemblebutton {
 
     padding-top: 1%;
