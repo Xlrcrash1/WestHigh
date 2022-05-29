@@ -85,11 +85,6 @@
     margin: 0!important;
 }
 
-.contentBorder {
-
-    border-right-style: solid;
-}
-
 .indexContentTitle {
 
     padding-bottom: 2%;
@@ -122,6 +117,7 @@
 .indexContentSquare {
 
     height: 500px;
+    background-color: whitesmoke;
 }
 
 .indexContentBandBoosterBandLogo {
