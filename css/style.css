@@ -114,12 +114,11 @@
     overflow-y: scroll;
 }
 
-/*.instagram-media {
+.instagram-media {
 
-    min-width: 0px!important;
-    width: 100%!important;
+    margin: auto;
 }
-
+/*
 .instagram-media-rendered {
 
     min-width: 0;
