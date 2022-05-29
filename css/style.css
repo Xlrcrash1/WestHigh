@@ -41,6 +41,7 @@
 #scrolls {
 
     width: 100%;
+    pointer-events: none;
 }
 
 .indexAnnouncement {
