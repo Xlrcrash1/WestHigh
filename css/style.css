@@ -137,6 +137,11 @@
     height: 25px;
 }
 
+.donationSection {
+
+    padding-top: 10%;
+}
+
 .QRCodeTitle {
 
     text-align: center;
