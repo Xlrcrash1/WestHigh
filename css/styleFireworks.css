@@ -61,12 +61,19 @@
 
     .centerContent {
 
-        margin-top: 2%!important;
+        margin-top: 0!important;
     }
 
     .contentLeft {
 
         padding: 0!important;
+        margin-top: 2%!important;
+    }
+
+    .contentRight {
+
+        padding: 0!important;
+        margin-top: 2%!important;
     }
 
     .squareTile {
