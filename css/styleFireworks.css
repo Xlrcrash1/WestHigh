@@ -30,12 +30,12 @@
 
 .contentLeft {
 
-    padding-right: .4%;
+    padding-right: .4%!important;
 }
 
 .contentRight {
 
-    padding-left: .4%;
+    padding-left: .4%!important;
 }
 
 .squareTile {
