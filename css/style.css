@@ -256,4 +256,9 @@
 
         width: 100%;
     }
+
+    .footerStart {
+
+        margin-bottom: 2%!important;
+    }
 }
