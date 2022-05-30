@@ -247,6 +247,11 @@
         width: 95%;
     }
 
+    .PaypalQR {
+
+        width: 25%;
+    }
+
     .QRCodeImage {
 
         width: 100%;
