@@ -81,4 +81,9 @@
         padding: 5%;
         height: auto;
     }
+
+    .footerStart {
+
+        margin-bottom: 2%!important;
+    }
 }
