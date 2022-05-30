@@ -55,3 +55,23 @@
 
     margin-bottom: .8%!important;
 }
+
+
+@media only screen and (max-width: 600px){
+
+    .centerContent {
+
+        margin-top: 2%!important;
+    }
+
+    .contentLeft {
+
+        padding: 0!important;
+    }
+
+    .squareTile {
+
+        padding: 5%;
+        height: auto;
+    }
+}
