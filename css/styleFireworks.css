@@ -29,13 +29,23 @@
     margin-top: .8%!important;
 }
 
-.footerStart {
+.contentLeft {
 
-    margin-bottom: .8%!important;
+    padding-right: .4%;
+}
+
+.contentRight {
+
+    padding-left: .4%;
 }
 
 .squareTile {
 
     height: 400px;
     background-color: whitesmoke;
+}
+
+.footerStart {
+
+    margin-bottom: .8%!important;
 }
