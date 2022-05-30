@@ -28,3 +28,14 @@
 
     padding-top: .5%;
 }
+
+.footerStart {
+
+    margin-bottom: .8%!important;
+}
+
+.squareTile {
+
+    height: 310px;
+    background-color: whitesmoke;
+}
