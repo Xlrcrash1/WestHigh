@@ -17,11 +17,10 @@
     width: 100%;
 }
 
-#map {
-    height: 400px;
-    /* The height is 400 pixels */
-    width: 100%;
-    /* The width is the width of the web page */
+.websiteText {
+
+    font-size: 18px;
+    font-weight: 300;
 }
 
 .centerContent {
@@ -43,6 +42,13 @@
 
     height: 400px;
     background-color: whitesmoke;
+}
+
+#map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
 }
 
 .footerStart {
