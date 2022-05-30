@@ -178,12 +178,14 @@
 
     .indexContentLeft {
 
+        padding-top: 2%!important;
         padding-right: 0!important;
         padding-left: 0!important;
     }
 
     .indexContentRight {
 
+        padding-top: 2%;
         padding-right: 0!important;
         padding-left: 0!important;
     }
@@ -235,8 +237,8 @@
 
     .calendarWeek {
 
-        height: 300px;
-        width: 100%;
+        height: 240px;
+        width: 95%;
     }
 
     .QRCodeImage {
