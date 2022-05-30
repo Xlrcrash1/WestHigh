@@ -176,6 +176,12 @@
         padding-bottom: 5%;
     }
 
+    .indexContentLeft {
+
+        padding-right: 0!important;
+        padding-left: 0!important;
+    }
+
     .indexContentDescription {
 
         font-size: 14px;
