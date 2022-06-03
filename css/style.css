@@ -152,6 +152,11 @@
     width: 50%;
 }
 
+.btn {
+
+    font-size: 20px;
+}
+
 .footerStart {
 
     margin-bottom: .8%!important;
