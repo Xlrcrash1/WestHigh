@@ -16,17 +16,6 @@
     margin-bottom: .5%;
 }
 
-
-.ensembleContentMirror{
-
-    width: 100%;
-    min-height: 200px;
-    justify-content: center;
-    text-align: right;
-    background-color: whitesmoke;
-    margin-bottom: .5%;
-}
-
 .ensembleContentBigTitle {
 
     font-size: 40px;
