@@ -115,41 +115,5 @@
 
 @media only screen and (max-width: 600px){
 
-    .ensembleContent {
-
-        color: white;
-    }
-
-    .ensembleContentMirror {
-
-        color: white;
-    }
-
-    .ensembleImageOne {
-
-        background-image: url("../images/VAPA-MarchingBand.webp");
-        background-size: 700px;
-        background-position-x: center;
-    }
-
-    .ensembleImageTwo {
-
-        background-image: url("../images/VAPA-ColorGuard.webp");
-        background-size: 700px;
-        background-position-x: center;
-    }
-
-    .ensembleImageThree {
-
-        background-image: url("../images/VAPA-DrumLine.webp");
-        background-size: 700px;
-        background-position-x: center;
-    }
-
-    .ensembleContentBig {
-
-        background-color: rgb(0,0,0,.60);
-        text-align: center;
-    }
 
 }
