@@ -26,6 +26,17 @@
     font-size: 16px;
 }
 
+.ensembleContentSmall {
+
+    text-align: center;
+}
+
+.ensembleVideo {
+
+    height: 243px;
+    width: 432px;
+}
+
 .ensembleImage {
 
     width: 100%;
