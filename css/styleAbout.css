@@ -61,6 +61,7 @@
 .bandDirector {
 
     text-align: center;
+    background-color: whitesmoke;
 }
 
 .bandStaffEnsembleColorGuard {
@@ -98,8 +99,8 @@
 
 .staffSection {
 
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: .8%;
+    margin-right: .8%;
 }
 
 .staffSectionTitle {
