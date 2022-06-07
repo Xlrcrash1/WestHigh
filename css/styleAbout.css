@@ -51,6 +51,17 @@
     margin-top: .8%;
 }
 
+.staffCaptionHeadLeft {
+
+    padding-left: .8%!important;
+    padding-right: .4%!important;
+}
+
+.staffCaptionHeadRight {
+
+    padding-right: .8%!important;
+    padding-left: .4%!important;
+}
 .staffSectionTop {
 
     margin-left: .8%;
