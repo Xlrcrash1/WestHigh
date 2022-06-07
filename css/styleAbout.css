@@ -51,6 +51,11 @@
     margin-top: .8%;
 }
 
+.staffSectionTop {
+
+    margin-left: .8%;
+    margin-right: .8%;
+}
 .staffSectionTitle {
 
     text-align: center;
@@ -100,8 +105,6 @@
 .staffSection {
 
     margin-top: .8%;
-    margin-left: .8%;
-    margin-right: .8%;
 }
 
 .staffSectionTitle {
