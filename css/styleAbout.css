@@ -46,10 +46,16 @@
     height: auto;
 }
 
+.aboutUsStaff {
+
+    margin-top: .8%;
+}
+
 .staffSectionTitle {
 
     text-align: center;
     font-size: 35px;
+    background-color: whitesmoke;
 }
 
 .bandDirector {
