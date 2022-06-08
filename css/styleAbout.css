@@ -172,5 +172,44 @@
         width: 345px;
     }
 
+    .ensembleContent {
+
+        margin-top: 2%!important;
+    }
+
+    .aboutUsStaff {
+
+        margin: 0!important;
+    }
+
+    .staffSectionTop {
+
+        margin-top: 2%!important;
+    }
+
+    .staffCaptionHeadLeft {
+
+        margin-top: 2%!important;
+    }
+
+    .staffCaptionHeadRight {
+
+        margin-top: 2%!important;
+    }
+
+    .additionalStaffLeft {
+
+        margin-top: 2%!important;
+    }
+
+    .additionalStaffMiddle {
+
+        margin-top: 2%!important;
+    }
+
+    .additionalStaffRight {
+
+        margin-top: 2%!important;
+    }
 }
 
