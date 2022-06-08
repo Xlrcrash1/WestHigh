@@ -166,6 +166,11 @@
 
 @media only screen and (max-width: 600px){
 
+    .ensembleVideo {
+
+        height: 190px;
+        width: 345px;
+    }
 
 }
 
