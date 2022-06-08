@@ -174,9 +174,15 @@
 
     .ensembleContent {
 
-        margin-top: 2%!important;
+        margin-top: 0!important;
+        padding: 0;
     }
 
+    .mobileMargin {
+
+        margin-top: 2%!important;
+
+    }
     .aboutUsStaff {
 
         margin: 0!important;
