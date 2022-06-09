@@ -92,11 +92,13 @@
     margin-left: .8%;
     margin-right: .8%;
 }
+
 .staffSectionTitle {
 
     text-align: center;
     font-size: 35px;
     background-color: whitesmoke;
+    padding-bottom: 2%;
 }
 
 .bandDirector {
@@ -125,6 +127,7 @@
 .directorDescription {
 
     text-align: center;
+    padding-bottom: 1%;
 }
 
 .ensembleStaff {
@@ -135,8 +138,8 @@
 
 .staffName {
 
-    font-size: 35px;
-    font-weight: 500;
+    font-size: 30px;
+    font-weight: 400;
 }
 
 .staffDescription {
@@ -223,12 +226,17 @@
     .staffName {
 
         font-size: 30px;
-        font-weight: 500;
+        font-weight: 400;
     }
 
     .staffSectionTop {
 
         margin-top: 2%!important;
+    }
+
+    .staffSectionTitle {
+
+        font-size: 30px;
     }
 
     .staffCaptionHeadLeft {
