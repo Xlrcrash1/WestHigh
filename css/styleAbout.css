@@ -169,13 +169,24 @@
     .ensembleVideo {
 
         height: 190px;
-        width: 345px;
+        width: 100%;
     }
 
     .ensembleContent {
 
         margin-top: 0!important;
         padding: 0;
+    }
+
+    .ensembleContentBigTitle {
+
+        text-align: center;
+    }
+
+    .ensembleContentSmall {
+
+        padding-top: 5%;
+        padding-bottom: 5%;
     }
 
     .mobileMargin {
