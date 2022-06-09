@@ -199,6 +199,27 @@
         margin: 0!important;
     }
 
+    .bandDirector {
+
+        padding-top: 2%;
+    }
+
+    .staffImage {
+
+        padding-bottom: 5%;
+    }
+
+    .staffTitle {
+
+        font-size: 25px;
+        font-weight: 400;
+    }
+    .staffName {
+
+        font-size: 30px;
+        font-weight: 500;
+    }
+
     .staffSectionTop {
 
         margin-top: 2%!important;
