@@ -101,11 +101,13 @@
 .indexContentLeft {
 
     padding-right: .4%!important;
+    padding-left: .8%!important;
 }
 
 .indexContentRight {
 
     padding-left: .4%!important;
+    padding-right: .8%!important;
 }
 
 .indexEnsemblebutton {
