@@ -1,0 +1,90 @@
+
+/*        Style Sheet for Fireworks Page         */
+
+.row {
+
+    margin-left: 0!important;
+    margin-right: 0!important;
+}
+
+.annoucements {
+
+    width: 100%;
+}
+
+.announcementImg {
+
+    width: 100%;
+}
+
+.websiteText {
+
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.centerContent {
+
+    margin-top: .8%!important;
+}
+
+.contentLeft {
+
+    padding-right: .4%!important;
+}
+
+.contentRight {
+
+    padding-left: .4%!important;
+}
+
+.squareTile {
+
+    height: 430px;
+    background-color: whitesmoke;
+    padding: 1%;
+}
+
+#map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+}
+
+.footerStart {
+
+    margin-bottom: .8%!important;
+}
+
+
+@media only screen and (max-width: 600px){
+
+    .centerContent {
+
+        margin-top: 0!important;
+    }
+
+    .contentLeft {
+
+        padding: 0!important;
+        margin-top: 2%!important;
+    }
+
+    .contentRight {
+
+        padding: 0!important;
+        margin-top: 2%!important;
+    }
+
+    .squareTile {
+
+        padding: 5%;
+        height: auto;
+    }
+
+    .footerStart {
+
+        margin-bottom: 2%!important;
+    }
+}

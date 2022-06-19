@@ -1,0 +1,271 @@
+#html {
+
+    height: 100vh;
+    background-color: #0D473D;
+    width: 100%;
+}
+
+#main {
+
+    width: 100%;
+}
+
+#body {
+
+    height: 100vh;
+    width: 100%;
+}
+
+.row {
+
+    margin: 0!important;
+}
+
+
+
+
+/* ------------------- Main -----------------------*/
+
+.main {
+
+    z-index: 1;
+}
+
+.websiteTitle {
+
+    font-size: 30;
+    font-weight: 500;
+    text-align: center;
+}
+
+#scrolls {
+
+    width: 100%;
+    pointer-events: none;
+}
+
+.indexAnnouncement {
+
+    margin-top: .5%;
+}
+
+.indexAnnouncementImg {
+
+    width: 100%;
+}
+
+.hrStyleTitle {
+
+    width: 25%;
+}
+
+.websiteText {
+
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.hrStyle {
+
+    width: 80%;
+    text-align: center;
+    background-color: rgba(0,0,0,0.13);
+    height: 1;
+    margin: 0 auto;
+    border: 0pt none;
+}
+
+.indexBody {
+
+    min-height: 200px;
+    width: 100%;
+    margin-top: .8%!important;
+    margin-left: 0!important;
+    margin-right: 0!important;
+    margin-bottom: 0!important;
+}
+
+.indexContentTitle {
+
+    padding-top: 2%;
+    /*padding-bottom: 2%;*/
+}
+
+.indexContentBottom {
+
+    width: 100%;
+    text-align: center;
+}
+
+.indexContentLeft {
+
+    padding-right: .4%!important;
+    padding-left: .8%!important;
+}
+
+.indexContentRight {
+
+    padding-left: .4%!important;
+    padding-right: .8%!important;
+}
+
+.indexEnsemblebutton {
+
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.calendarWeek {
+
+    width: 95%;
+    height: 220px;
+    overflow-y: scroll;
+}
+
+.instagram-media {
+
+    margin: auto!important;
+}
+
+.indexContentSquare {
+
+    height: 310px;
+    background-color: whitesmoke;
+}
+
+.indexContentBandBoosterBandLogo {
+
+    height: 25px;
+}
+
+.squareSpacing {
+
+    padding-top: 5%;
+}
+
+.QRCodeTitle {
+
+    text-align: center;
+}
+
+.PaypalQR {
+
+    width: 50%;
+}
+
+.btn {
+
+    font-size: 20px!important;
+}
+
+.footerStart {
+
+    margin-bottom: .8%!important;
+}
+
+@media only screen and (max-width: 600px){
+
+    /*---------------------- MAIN -----------------------*/
+    #scrolls {
+
+        max-height: 30vh;
+    }
+
+    .indexBody {
+
+        margin-top: 0!important;
+    }
+
+    .indexContent {
+
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+
+    .indexContentSquare {
+
+        padding-right: 2%;
+        padding-left: 2%;
+    }
+
+    .indexContentLeft {
+
+        padding-top: 2%!important;
+        padding-right: 0!important;
+        padding-left: 0!important;
+    }
+
+    .indexContentRight {
+
+        padding-top: 2%;
+        padding-right: 0!important;
+        padding-left: 0!important;
+    }
+
+    .indexContentDescription {
+
+        font-size: 16px;
+    }
+
+    .indexEnsemble {
+
+        font-size: 16px;
+    }
+
+    .indexVolunteer {
+
+        font-size: 18px;
+    }
+   
+    .joinEnsemblesLeft {
+        
+        padding-left: 1%;
+        padding-right: 1%;
+    }    
+
+    .joinEnsemblesRight {
+
+        padding-left: 1%;
+        padding-right: 1%;
+    }
+
+    .contentBorder {
+
+        border-right-style: none;
+    }
+
+    .websiteTitle {
+
+        font-size: 20px;
+    }
+
+    .indexEnsembleButton {
+
+        padding-top: 1%!important;
+        padding-bottom: 1%!important;
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+
+    .calendarWeek {
+
+        height: 240px;
+        width: 95%;
+    }
+
+    .PaypalQR {
+
+        width: 25%;
+    }
+
+    .QRCodeImage {
+
+        width: 100%;
+    }
+
+    .footerStart {
+
+        margin-bottom: 2%!important;
+    }
+}

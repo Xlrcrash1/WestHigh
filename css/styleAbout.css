@@ -1,0 +1,273 @@
+/* ------------------- About Us -------------------*/
+
+.row {
+
+    margin-left: 0!important;
+    margin-right: 0!important;
+}
+
+.ensembleContent{
+
+    width: 100%;
+    min-height: 250px;
+    justify-content: center;
+    text-align: left;
+    background-color: whitesmoke;
+    margin-bottom: .8%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.ensembleContentBigTitle {
+
+    font-size: 40px;
+}
+
+.ensembleContentBigText {
+
+    font-size: 16px;
+    padding-top: 2%;
+}
+
+.ensembleContentSmall {
+
+    text-align: center;
+}
+
+.ensembleVideo {
+
+    height: 243px;
+    width: 432px;
+}
+
+.ensembleImage {
+
+    width: 100%;
+    height: auto;
+}
+
+.aboutUsStaff {
+
+    margin-top: .8%;
+}
+
+.staffCaptionHeadLeft {
+
+    padding-left: .8%!important;
+    padding-right: .4%!important;
+}
+
+.staffCaptionHeadRight {
+
+    padding-right: .8%!important;
+    padding-left: .4%!important;
+}
+
+.staffSectionTop {
+
+    margin-left: .8%;
+    margin-right: .8%;
+}
+
+.additionalStaffLeft {
+
+    padding-right: .4%!important;
+    padding-left: .8%!important;
+}
+
+.additionalStaffMiddle {
+
+    padding-right: .4%!important;
+    padding-left: .4%!important;
+}
+
+.additionalStaffRight {
+
+    padding-right: .8%!important;
+    padding-left: .4%!important;
+}
+
+.staffSectionTop {
+
+    margin-left: .8%;
+    margin-right: .8%;
+}
+
+.staffSectionTitle {
+
+    text-align: center;
+    font-size: 35px;
+    background-color: whitesmoke;
+    padding-bottom: 2%;
+}
+
+.bandDirector {
+
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.staffCard {
+
+    background-color: whitesmoke;
+    height: 100%;
+    padding-top: 5%;
+}
+
+.bandStaffEnsembleColorGuard {
+
+    text-align: center;
+}
+
+.bandStaffEnsembleDrumline {
+
+    text-align: center;
+}
+
+.directorDescription {
+
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.ensembleStaff {
+
+    margin-top: .8%;
+    text-align: center;
+}
+
+.staffName {
+
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.staffTitle {
+
+    font-size: 20px;
+}
+
+.staffDescription {
+
+    font-size: 16px;
+    padding-bottom: 1%;
+}
+
+.staffSection {
+
+    margin-top: .8%;
+}
+
+.staffSectionTitle {
+
+    font-size: 40px;
+    padding-bottom: 1%;
+}
+
+.staffPic {
+
+    height: 200px;
+}
+
+.hrStyle {
+
+    width: 80%;
+    text-align: center;
+    background-color: rgba(0,0,0,0.13);
+    height: 1;
+    margin: 0 auto;
+    border: 0pt none;
+}
+
+@media only screen and (max-width: 600px){
+
+    .ensembleVideo {
+
+        height: 190px;
+        width: 100%;
+    }
+
+    .ensembleContent {
+
+        margin-top: 0!important;
+        padding: 0;
+    }
+
+    .ensembleContentBigTitle {
+
+        text-align: center;
+    }
+
+    .ensembleContentSmall {
+
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+
+    .mobileMargin {
+
+        margin-top: 2%!important;
+
+    }
+    .aboutUsStaff {
+
+        margin: 0!important;
+    }
+
+    .bandDirector {
+
+        padding-top: 2%;
+    }
+
+    .staffImage {
+
+        padding-bottom: 5%;
+    }
+
+    .staffTitle {
+
+        font-size: 25px;
+        font-weight: 400;
+    }
+    .staffName {
+
+        font-size: 30px;
+        font-weight: 400;
+    }
+
+    .staffSectionTop {
+
+        margin-top: 2%!important;
+    }
+
+    .staffSectionTitle {
+
+        font-size: 30px;
+    }
+
+    .staffCaptionHeadLeft {
+
+        margin-top: 2%!important;
+    }
+
+    .staffCaptionHeadRight {
+
+        margin-top: 2%!important;
+    }
+
+    .additionalStaffLeft {
+
+        margin-top: 2%!important;
+    }
+
+    .additionalStaffMiddle {
+
+        margin-top: 2%!important;
+    }
+
+    .additionalStaffRight {
+
+        margin-top: 2%!important;
+    }
+}
+
