@@ -59,6 +59,7 @@
     /*position: inherit;*/
     border-radius: 0;
     display: block;
+    margin: 0;
 }
 
 .navbar-toggler{
