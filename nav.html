@@ -15,7 +15,7 @@
 
     <script>
         $(document).ready(function() {
-    $.each($('#navbar').find('li'), function() {
+    $.each($('#navbar').find('nav-item'), function() {
         $(this).toggleClass('active', 
             window.location.pathname.indexOf($(this).find('a').attr('href')) > -1);
     }); 
@@ -32,13 +32,11 @@
 
     <div class = "navBanner">
     
-
-            <div class = "navBannerMid col-sm">
+        <div class = "navBannerMid col-sm">
                 
-                <div class = "navImage">
+            <div class = "navImage">
             
-                    <img class="navBannerImage" src="./images/logos/WestHighBannerLogo.png" alt="VikingRegimentLogo">
-                </div>
+                <img class="navBannerImage" src="./images/logos/WestHighBannerLogo.png" alt="VikingRegimentLogo">
             </div>
         </div>
     </div>
