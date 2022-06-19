@@ -26,6 +26,13 @@
 
 /* ------------------- Main -----------------------*/
 
+.test {
+
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+}
+
 .main {
 
     z-index: 1;
