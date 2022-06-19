@@ -19,6 +19,13 @@
         $(this).parent().addClass("active");
         });
     </script>
+
+    <script>
+        $(".nav .nav-link").on("click", function(){
+   $(".nav").find(".active").removeClass("active");
+   $(this).addClass("active");
+});
+    </script>
 </navScripts>
 
 <div class = "test">
