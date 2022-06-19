@@ -26,6 +26,7 @@
    $(this).addClass("active");
 });
     </script>
+    <script>$(".nav a").on("click", function(){   $(".nav").find(".active").removeClass("active");   $(this).parent().addClass("active"); });</script>
 </navScripts>
 
 <div class = "test">
