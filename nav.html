@@ -15,9 +15,11 @@
 
     <script>
         $(document).ready(function() {
-        $('nav-item.active').removeClass('active');
-        $('a[href="' + location.pathname + '"]').closest('li').addClass('active'); 
-        });
+    $.each($('#navbar').find('li'), function() {
+        $(this).toggleClass('active', 
+            window.location.pathname.indexOf($(this).find('a').attr('href')) > -1);
+    }); 
+});
     </script>
 
 </navScripts>
