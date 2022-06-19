@@ -31,12 +31,6 @@
     padding-top: 10px;
 }
 
-.navBannerRow {
-
-    width: 100%;
-    pointer-events: none;
-    margin: 0;
-}
 
 .navImage {
 
@@ -46,23 +40,8 @@
 
 .navBannerImage {
 
-    width: 40%;
-}
-
-.navBannerLeft {
-
-    width: 33%;
-}
-
-.navBannerMid {
-
-    width: 33%;
+    width: 15%;
     z-index: 5;
-}
-
-.navBannerRight {
-
-    width: 33%;
 }
 
 .navbar {
