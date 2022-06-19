@@ -14,11 +14,6 @@
     width: 100%;
 }
 
-.navContent {
-
-    pointer-events: none;
-}
-
 .navBanner {
 
     width: 100%;
@@ -27,7 +22,7 @@
     color: white;
     height: 50px;
     padding-top: 10px;
-}
+    pointer-events: none;
 
 .navImage {
 
