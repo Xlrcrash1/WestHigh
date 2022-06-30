@@ -222,6 +222,7 @@
         margin-top: 2%!important;
 
     }
+
     .aboutUsStaff {
 
         margin: 0!important;
@@ -258,14 +259,14 @@
         font-size: 30px;
     }
 
-    .staffCaptionHeadLeft {
+    .colorGuardStaff {
 
-        margin-top: 2%!important;
+        order: 1;
     }
 
-    .staffCaptionHeadRight {
+    .drumlineStaff {
 
-        margin-top: 2%!important;
+        order: 2;
     }
 
     .additionalStaffLeft {
