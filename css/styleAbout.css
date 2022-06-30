@@ -76,18 +76,21 @@
 
 .additionalStaffLeft {
 
+    margin-top: .8%;
     padding-right: .4%!important;
     padding-left: .8%!important;
 }
 
 .additionalStaffMiddle {
 
+    margin-top: .8%;
     padding-right: .4%!important;
     padding-left: .4%!important;
 }
 
 .additionalStaffRight {
 
+    margin-top: .8%;
     padding-right: .8%!important;
     padding-left: .4%!important;
 }
@@ -137,7 +140,6 @@
 
 .ensembleStaff {
 
-    margin-top: .8%;
     text-align: center;
 }
 
