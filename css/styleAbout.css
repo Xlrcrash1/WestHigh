@@ -50,19 +50,7 @@
 
     margin-top: .8%;
 }
-
-.staffCaptionHeadLeft {
-
-    padding-left: .8%!important;
-    padding-right: .4%!important;
-}
-
-.staffCaptionHeadRight {
-
-    padding-right: .8%!important;
-    padding-left: .4%!important;
-}
-
+ 
 .staffSectionTop {
 
     margin-left: .8%;
@@ -284,6 +272,16 @@
     .additionalStaffRight {
 
         margin-top: 2%!important;
+    }
+
+    .colorGuardStaff {
+
+        order: 1;
+    }
+
+    .drumlineStaff {
+
+        order: 2;
     }
 }
 
