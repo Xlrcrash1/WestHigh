@@ -271,5 +271,15 @@
 
         margin-top: 2%!important;
     }
+
+    .colorGuardStaff {
+
+        order: 1;
+    }
+
+    .drumlineStaff {
+
+        order: 2;
+    }
 }
 
