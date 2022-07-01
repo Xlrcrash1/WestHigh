@@ -50,19 +50,7 @@
 
     margin-top: .8%;
 }
-
-.staffCaptionHeadLeft {
-
-    padding-left: .8%!important;
-    padding-right: .4%!important;
-}
-
-.staffCaptionHeadRight {
-
-    padding-right: .8%!important;
-    padding-left: .4%!important;
-}
-
+ 
 .staffSectionTop {
 
     margin-left: .8%;
@@ -71,12 +59,14 @@
 
 .additionalStaffLeft {
 
+    margin-top: .8%;
     padding-right: .4%!important;
     padding-left: .8%!important;
 }
 
 .additionalStaffMiddle {
 
+    margin-top: .8%;
     padding-right: .4%!important;
     padding-left: .4%!important;
 }
@@ -132,7 +122,6 @@
 
 .ensembleStaff {
 
-    margin-top: .8%;
     text-align: center;
 }
 
