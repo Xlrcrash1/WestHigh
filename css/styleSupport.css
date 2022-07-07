@@ -5,3 +5,10 @@
     background-color: whitesmoke;
     margin-bottom: .8%;
 }
+
+.supportText {
+
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+}
