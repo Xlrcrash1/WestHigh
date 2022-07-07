@@ -6,6 +6,12 @@
     margin-bottom: .8%;
 }
 
+.supportTitle {
+
+    font-size: 30;
+    font-weight: 500;
+}
+
 .supportText {
 
     font-size: 18px;
