@@ -40,7 +40,12 @@
     border: 0pt none;
 }
 
+.boosterCard {
+
+    text-align: center;
+}
+
 .boosterPic {
 
-    width: 100%;
+    width: 50%;
 }
