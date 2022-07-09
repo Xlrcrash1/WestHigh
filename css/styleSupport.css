@@ -67,6 +67,10 @@
 .volunteerCard {
 
     background-image: url("/images/carwash.jpeg");
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;
+    opacity: 0.6;
 }
 
 .volunteering {
