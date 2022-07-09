@@ -64,6 +64,11 @@
     font-weight: 300;
 }
 
+.volunteerCard {
+
+    background-image: url("carwash.jpg");
+}
+
 .volunteering {
 
     font-weight: 400;
