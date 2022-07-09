@@ -64,11 +64,7 @@
     font-weight: 300;
 }
 
-*, *::before, *::after {
-    box-sizing: border-box;
-}
-
-.volunteerCard::before {
+.volunteerCard {
 
     background-image: url("/images/carwash.jpeg");
     background-repeat: no-repeat;
