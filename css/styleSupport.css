@@ -69,6 +69,11 @@
     font-weight: 400;
 }
 
+.sponsorshipTiers {
+
+    margin-bottom: 2%;
+}
+
 .tierCard {
 
     border: solid;
@@ -86,4 +91,5 @@
 
     font-style: italic;
     font-weight: 400;
+    margin-bottom: 10%;
 }
