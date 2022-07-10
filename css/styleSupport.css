@@ -68,3 +68,9 @@
 
     font-weight: 400;
 }
+
+.tierCard {
+
+    border: solid;
+    border-radius: 5%;
+}
