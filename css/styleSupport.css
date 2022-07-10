@@ -80,6 +80,7 @@
     border: solid;
     border-radius: 25px;
     box-shadow: 5px 10px #888888;
+    padding: 5%;
 }
 
 .tierName {
@@ -107,6 +108,7 @@
     border: solid;
     border-radius: 25px;
     box-shadow: 5px 10px #888888;
+    padding: 5%;
 }
 
 .exposureTitle {
