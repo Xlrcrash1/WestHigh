@@ -96,6 +96,11 @@
     margin-bottom: 10%;
 }
 
+.tierDescription {
+
+    text-align: left;
+}
+
 .bold {
 
     font-weight: 400px;
