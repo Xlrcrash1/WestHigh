@@ -146,8 +146,33 @@
 
 @media only screen and (max-width: 600px){
 
+    .supportCard {
+
+        margin-bottom: 2%;
+    }
+
+    .supportTitle {
+
+        text-align: center;
+    }
+
     .btnLogo {
 
         width: 30%;
-    }    
+    } 
+    
+    .tierCard {
+
+        margin-bottom: 10%;
+    }
+
+    .exposureCard {
+
+        margin-bottom: 10%;
+    }
+    
+    .exposureIntro {
+
+        margin-bottom: 10%;
+    }
 }
