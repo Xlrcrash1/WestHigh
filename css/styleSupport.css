@@ -107,7 +107,6 @@
     font-size: 20px;
 }
 
-
 .exposureCardinner {
 
     border: solid;
@@ -133,4 +132,9 @@
 .exposureDetails {
 
     margin-bottom: 2%;
+}
+
+.lastFooter {
+
+    margin-bottom: 0;
 }
