@@ -159,6 +159,10 @@
     aspect-ratio: 1 /1;
 }
 
+.donateCardInner:hover {
+    background-color: yellow;
+  }
+
 .donateCardTitle {
 
     margin-top: 2%;
