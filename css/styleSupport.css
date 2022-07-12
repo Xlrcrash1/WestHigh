@@ -163,6 +163,7 @@
     
     background-color: grey;
     text-decoration: none;
+    box-shadow: none;
 }
 
 .donateCardTitle {
