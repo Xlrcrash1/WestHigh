@@ -185,15 +185,11 @@
     height: 100%;
 }
 
-.donateCardLogo {
-
-    padding-left: 2%;
-    padding-right: 2%;
-}
-
 .paypalLogo {
 
     width: 100%;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
 .lastFooter {
