@@ -139,6 +139,12 @@
     margin-bottom: 2%;
 }
 
+.donateCard {
+
+    display: flex;
+    justify-content: center;
+}
+
 .donateCardinner {
 
     border: solid;
