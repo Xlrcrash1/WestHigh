@@ -172,6 +172,11 @@
     color: black;
 }
 
+.normal:hover {
+
+    color: black;
+}
+
 .donateCardTitle {
 
     margin-top: 2%;
