@@ -139,6 +139,13 @@
     margin-bottom: 2%;
 }
 
+.donateCardinner {
+
+    border: solid;
+    border-radius: 25px;
+    box-shadow: 5px 10px #888888;
+}
+
 .lastFooter {
 
     margin-bottom: 0;
@@ -170,7 +177,7 @@
 
         margin-bottom: 10%;
     }
-    
+
     .exposureIntro {
 
         margin-bottom: 10%;
