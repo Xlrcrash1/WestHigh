@@ -224,6 +224,11 @@
         margin-bottom: 10%;
     }
 
+    .sponsorshipTiers {
+
+        margin-top: 10%;
+    }
+
     .exposureCard {
 
         margin-bottom: 10%;
@@ -233,4 +238,10 @@
 
         margin-bottom: 10%;
     }
+
+    .donateCard {
+
+        margin-bottom: 10%;
+    }
+    
 }
