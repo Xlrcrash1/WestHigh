@@ -160,8 +160,10 @@
 }
 
 .donateCardInner:hover {
-    background-color: yellow;
-  }
+    
+    background-color: #0D473D;
+    text-decoration: none;
+}
 
 .donateCardTitle {
 
