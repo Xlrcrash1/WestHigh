@@ -158,9 +158,25 @@
     aspect-ratio: 1 /1;
 }
 
+.donateCardTitle {
+
+    font-size: 30px;
+}
+
 .paypalQR {
 
     height: 100%;
+}
+
+.donateCardLogo {
+
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.paypalLogo {
+
+    width: 100%;
 }
 
 .lastFooter {
