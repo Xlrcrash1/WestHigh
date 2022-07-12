@@ -147,6 +147,11 @@
     aspect-ratio: 1 /1;
 }
 
+.paypalQR {
+
+    height: 100%;
+}
+
 .lastFooter {
 
     margin-bottom: 0;
