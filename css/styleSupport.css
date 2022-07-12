@@ -166,6 +166,12 @@
     box-shadow: none;
 }
 
+.normal {
+
+    border-color: black;
+    color: black;
+}
+
 .donateCardTitle {
 
     margin-top: 2%;
