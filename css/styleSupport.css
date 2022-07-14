@@ -162,6 +162,7 @@
 .donateCardInnerButton:hover {
     
     background-color: white;
+    border-color: green;
     text-decoration: none;
     box-shadow: none;
 }
@@ -171,11 +172,6 @@
     border-color: black;
     color: black;
 }
-
-/*.normal:hover {
-
-    color: white;
-}*/
 
 .donateCardTitle {
 
