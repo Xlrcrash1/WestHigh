@@ -57,6 +57,11 @@
     margin-right: .8%;
 }
 
+.additionalStaff {
+
+    text-align: center;
+}
+
 .additionalStaffLeft {
 
     margin-top: .8%;
@@ -105,6 +110,12 @@
     padding-top: 5%;
 }
 
+.staffBottom {
+
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
 .bandStaffEnsembleColorGuard {
 
     text-align: center;
@@ -129,12 +140,14 @@
 .staffName {
 
     font-size: 25px;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .staffTitle {
 
     font-size: 20px;
+    font-style: italic;
+    font-weight: 300;
 }
 
 .staffDescription {
@@ -201,6 +214,7 @@
         margin-top: 2%!important;
 
     }
+
     .aboutUsStaff {
 
         margin: 0!important;
@@ -237,14 +251,14 @@
         font-size: 30px;
     }
 
-    .staffCaptionHeadLeft {
+    .colorGuardStaff {
 
-        margin-top: 2%!important;
+        order: 1;
     }
 
-    .staffCaptionHeadRight {
+    .drumlineStaff {
 
-        margin-top: 2%!important;
+        order: 2;
     }
 
     .additionalStaffLeft {

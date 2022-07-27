@@ -1,0 +1,266 @@
+.supportCard {
+
+    min-height: 250px;
+    width: 100%;
+    background-color: whitesmoke;
+    margin-bottom: .8%;
+    padding: 2%;
+}
+
+.supportTitle {
+
+    font-size: 30;
+    font-weight: 500;
+}
+
+.supportText {
+
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.btnLogo {
+
+    width: 8%;
+}
+
+.groupMeLogo {
+
+    width: 100%;
+}
+
+.hrStyle {
+
+    width: 80%;
+    text-align: center;
+    background-color: rgba(0,0,0,0.13);
+    height: 1;
+    margin: 0 auto;
+    border: 0pt none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.boosterCard {
+
+    text-align: center;
+}
+
+.boosterName {
+
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.boosterPosition {
+
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 300;
+}
+
+.volunteering {
+
+    font-weight: 400;
+}
+
+.sponsorshipTiers {
+
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.tierCard {
+
+    border: solid;
+    border-radius: 25px;
+    box-shadow: 5px 10px #888888;
+    padding: 5%;
+}
+
+.tierName {
+
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.tierQuantity {
+
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom: 10%;
+}
+
+.tierDescription {
+
+    text-align: left;
+}
+
+.bold {
+
+    font-weight: 400px;
+    font-size: 20px;
+}
+
+.exposureCardinner {
+
+    border: solid;
+    border-radius: 25px;
+    box-shadow: 5px 10px #888888;
+    padding: 5%;
+}
+
+.exposureTitle {
+
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10%;
+}
+
+.exposureIntro {
+
+    margin-bottom: 2%;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.exposureDetails {
+
+    margin-bottom: 2%;
+}
+
+.donateCardSection {
+
+    margin-bottom: 2%;
+}
+
+.donateTitle {
+
+    margin-bottom: 2%;
+}
+
+.donateCard {
+
+    display: flex;
+    justify-content: center;
+    height: 320px;
+}
+
+.donateCardinner {
+
+    border: solid;
+    border-radius: 25px;
+    box-shadow: 5px 10px #888888;
+    aspect-ratio: 1 /1;
+}
+
+.donateCardInnerButton:hover {
+    
+    background-color: white;
+    border-color: green;
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.normal {
+
+    border-color: black;
+    color: black;
+}
+
+.donateCardTitle {
+
+    margin-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 30px;
+}
+
+.paypalQR {
+
+    height: 100%;
+}
+
+.paypalLogo {
+
+    width: 100%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.left {
+
+    text-align: left;
+}
+
+.lastFooter {
+
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width: 600px){
+
+    .supportCard {
+
+        margin-bottom: 2%;
+    }
+
+    .supportImages {
+
+        width: 100%;
+        margin-left: 0!important;
+        margin-right: 0!important;
+    }
+
+    .supportTitle {
+
+        text-align: center;
+    }
+
+    .btnLogo {
+
+        width: 30%;
+    } 
+    
+    .tierCard {
+
+        margin-bottom: 10%;
+    }
+
+    .sponsorshipTiers {
+
+        margin-top: 10%;
+        margin-left: 0!important;
+        margin-right: 0!important;
+        width: 100%;
+    }
+
+    .exposureDetails {
+
+        width: 100%;
+        margin: 0!important;
+    }
+
+    .exposureCard {
+
+        margin-bottom: 10%;
+    }
+
+    .exposureIntro {
+
+        margin-bottom: 10%;
+    }
+
+    .donateCardSection {
+
+        width: 100%;
+        margin: 0!important;
+    }
+
+    .donateCard {
+
+        margin-bottom: 10%;
+    }
+    
+}
