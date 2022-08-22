@@ -165,6 +165,11 @@
     margin-bottom: .8%!important;
 }
 
+.sponsoredByLogo {
+
+    width: 10%;
+}
+
 @media only screen and (max-width: 600px){
 
     /*---------------------- MAIN -----------------------*/
