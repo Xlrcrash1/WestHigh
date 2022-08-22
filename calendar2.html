@@ -1,0 +1,72 @@
+<!doctype = HTML>
+<html lang = 'en'>
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet" href='./css/styleCalendar.css'>
+    
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+
+
+    <head>
+
+        <title>About Us</title>
+        <meta name="description" content="West High School Viking Regiment! Click to find out when our next performance or fundraiser is!">
+        <link rel="icon" href="./images/logos/WestHeaderLogo.png" type="image/icon type">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+
+    <body>
+    
+        <div id="Navigation"></div>
+
+        <div class = "calendarTop">
+
+            <h1>Viking Regiment Event's Calendar</h1>
+        </div>
+
+        <div class = "row">
+        <div class = "col-4">
+        <div class = "calendarList">
+
+            <iframe class="calendarWeek" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;mode=AGENDA&amp;showTabs=0&amp;showPrint=0&amp;showDate=1&amp;showTitle=0&amp;showNav=0&amp;showCalendars=0&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=a2VybmhpZ2gub3JnX2c4MG11NG1rcGh2ZWc5aThwYjRnc2JrbWVvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%230B8043&amp;color=%23795548" width="800" height="600" frameborder="0" scrolling="no" style="width: 60%;"></iframe>
+        </div>
+        </div>
+
+        <div class = "col-8">
+        <div id = "Calendar">
+
+            <div class = "calendarBottom">
+                
+                <iframe class = "calendar" src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showTabs=0&showCalendars=0&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=a2VybmhpZ2gub3JnX2c4MG11NG1rcGh2ZWc5aThwYjRnc2JrbWVvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%230B8043&color=%23795548" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+            </div>
+
+        </div>
+        </div>
+        </div>
+
+
+
+
+
+        <div id = "Footer"></div>
+
+
+        
+        <script>
+      
+            $(function(){
+                
+                $("#Navigation").load("nav.html");
+            });
+
+            $(function(){
+                
+                $("#Footer").load("footer.html");
+            });
+        </script> 
+    </body>
+</html>  
