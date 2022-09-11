@@ -180,6 +180,32 @@
     width: 10%;
 }
 
+.tierCard {
+
+    border: solid;
+    border-radius: 25px;
+    box-shadow: 5px 10px #888888;
+    padding: 5%;
+}
+
+.tierName {
+
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.tierQuantity {
+
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom: 10%;
+}
+
+.tierDescription {
+
+    text-align: left;
+}
+
 @media only screen and (max-width: 600px){
 
     /*---------------------- MAIN -----------------------*/
@@ -290,4 +316,8 @@
         width: 50%;
     }
     
+    .tierCard {
+
+        margin-bottom: 10%;
+    }
 }
