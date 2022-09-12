@@ -193,18 +193,22 @@
 
     font-size: 20px;
     font-weight: 500;
+    text-align: center;
 }
 
 .tierQuantity {
 
     font-style: italic;
+    font-size: 15px;
     font-weight: 400;
     margin-bottom: 10%;
+    text-align: center;
 }
 
 .tierDescription {
 
     text-align: left;
+    font-size: 15px;
 }
 
 @media only screen and (max-width: 600px){
