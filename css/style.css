@@ -219,7 +219,6 @@
 .indexFundraiserText {
 
     padding: 5%;
-    margin: 5%;
 }
 
 @media only screen and (max-width: 600px){
@@ -335,5 +334,11 @@
     .tierCard {
 
         margin-bottom: 10%;
+    }
+
+    .indexFundraiserText {
+
+        padding: 5%;
+        margin: 5%;
     }
 }
